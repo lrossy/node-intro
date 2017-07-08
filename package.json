@@ -15,9 +15,10 @@
   "bugs": {
     "url": "https://github.com/lrossy/node-intro/issues"
   },
-  "homepage": "https://github.com/lrossy/node-intro#readme",
   "dependencies": {
+    "inquirer": "^3.1.1",
     "request": "^2.81.0",
     "request-promise": "^4.2.1"
-  }
+  },
+  "homepage": "https://github.com/lrossy/node-intro#readme"
 }
